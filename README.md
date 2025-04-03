@@ -25,8 +25,8 @@ Este é um projeto de formulário de cadastro utilizando HTML, CSS (Bootstrap) e
 - [Bootstrap 5.3](https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css)
 - [Cleave.js](https://cdnjs.cloudflare.com/ajax/libs/cleave.js/1.6.0/cleave.min.js)
 
-## Autor
+## Autor - GitHub - Escola
 [Renan Morano](https://github.com/CBJR69)
 
-## Autor
+## Autor - GitHub - Pessoal
 [Renan Morano](https://github.com/rean99)
